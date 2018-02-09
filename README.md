@@ -2,7 +2,7 @@
 Kumpulan link WMTS citra Anaglyph (filter warna Red-Cyan, Green-Magenta, dan Amber-Blue) dengan nilai Vertical Exaggeration (VE) 1,3, dan 5 untuk area kajian Provinsi DIY
 
 <details>
-  <summary>Anaglyph Imagery WMTS [Preview & Share}</summary><p>
+  <summary>Anaglyph Imagery WMTS [Preview & Share]</summary><p>
   
 ## LANDSAT8+SRTMv.3
 * Red-Cyan
@@ -302,9 +302,129 @@ https://api.mapbox.com/styles/v1/rifkifau/cjdf5lpfj0mdp2spksbvfcfh8/tiles/256/{l
 ```
 </p></details>
 
-
-
 <details>
-  <summary>Anaglyph Imagery WMTS for ArcGIS Desktop & QGIS</summary>
-  whatever
-</details>
+  <summary>Anaglyph Imagery WMTS for ArcGIS Desktop & QGIS</summary><p>
+  
+## LANDSAT8 & SRTMv.3
+* Red-Cyan
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelisps3si22rmuad8lc1zx/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelkxj400av2rquff502vit/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelndts3hzr2rr2eka5te0f/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Green-Magenta
+1. VE1 
+```
+https://api.mapbox.com/styles/v1/rifkifau/cjdelvgq80a502rnwew37xo4r/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelwy280a8r2smsv5ibdnj6/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelyajd0a8e2rpk2agrfdsj/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Amber-Blue
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelpcks0a132sqek8nzekae/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelqrlc1xqn2rmuiftr631c/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelso2o1xsc2rmuiatecpb7/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+
+## ASTER1T & ASTER DSM
+* Red-Cyan
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem0zy60aa32rnwxi6ogkm2/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem2alo05zu2rsfcsz26b85/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem38ds060p2rsfyp284mgc/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Green-Magenta
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem5isl0ag62sqe4yqdkrij/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem6jhy4o3v2rml9tw08hgm/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem7jkkcstc2sp5icla6bwy/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Amber-Blue
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem8vmu0ai32sobsgxiqunz/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem9u1qer3q2smnb160anzw/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdematv8csu32ro3j0cqr8qn/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+
+## SENTINEL2A & ALOS PALSAR
+* Red-Cyan
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemnbniep0e2rpnuehekd91/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemp0o0epdp2tokvurwwnhv/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemrxbdep0n2smd3isz8pwe/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Green-Magenta
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemv7wcepeu2rph2icz7ey7/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemwke7ep8m2rpnj7u7xhpo/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemxx1fcx2t2spd9gzs00ei/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Amber-Blue
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdf5k3lx56652rmldibip8p0/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdf5l0w30sjd2smsafqb1vaf/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdf5lpfj0mdp2spksbvfcfh8/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+</p></details>
