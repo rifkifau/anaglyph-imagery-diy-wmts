@@ -306,6 +306,136 @@ https://api.mapbox.com/styles/v1/rifkifau/cjdf5lpfj0mdp2spksbvfcfh8/tiles/256/{l
 </p></details>
 
 <details>
+  <summary>Anaglyph Imagery WMTS for CartoCom</summary><p>
+
+## How to ADD WMTS Layers to CartoCom
+![add wmts layers on arcgis online](https://user-images.githubusercontent.com/24805357/36010172-a2630d6e-0d82-11e8-83a1-0027a011f2ae.gif)
+
+## LANDSAT8 & SRTMv.3
+* Red-Cyan
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelisps3si22rmuad8lc1zx/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelkxj400av2rquff502vit/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelndts3hzr2rr2eka5te0f/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Green-Magenta
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelvgq80a502rnwew37xo4r/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelwy280a8r2smsv5ibdnj6/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelyajd0a8e2rpk2agrfdsj/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Amber-Blue
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelpcks0a132sqek8nzekae/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelqrlc1xqn2rmuiftr631c/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdelso2o1xsc2rmuiatecpb7/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+
+## ASTER1T & ASTER DSM
+* Red-Cyan
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem0zy60aa32rnwxi6ogkm2/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+```
+https://api.mapbox.com/styles/v1/rifkifau/cjdem2alo05zu2rsfcsz26b85/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem38ds060p2rsfyp284mgc/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Green-Magenta
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem5isl0ag62sqe4yqdkrij/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem6jhy4o3v2rml9tw08hgm/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem7jkkcstc2sp5icla6bwy/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Amber-Blue
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem8vmu0ai32sobsgxiqunz/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdem9u1qer3q2smnb160anzw/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdematv8csu32ro3j0cqr8qn/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+
+## SENTINEL2A & ALOS PALSAR
+* Red-Cyan
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemnbniep0e2rpnuehekd91/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemp0o0epdp2tokvurwwnhv/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemrxbdep0n2smd3isz8pwe/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Green-Magenta
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemv7wcepeu2rph2icz7ey7/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemwke7ep8m2rpnj7u7xhpo/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemxx1fcx2t2spd9gzs00ei/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* Amber-Blue
+1. VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdf5k3lx56652rmldibip8p0/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdf5l0w30sjd2smsafqb1vaf/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+1. VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdf5lpfj0mdp2spksbvfcfh8/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+</p></details>
+
+<details>
   <summary>Anaglyph Imagery WMTS for ArcGIS Desktop & QGIS</summary><p>
   
 ## How to ADD WMTS Layers to QGIS
