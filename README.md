@@ -441,6 +441,9 @@ https://api.mapbox.com/styles/v1/rifkifau/cjdf5lpfj0mdp2spksbvfcfh8/tiles/256/{z
   
 ## How to ADD WMTS Layers to QGIS
 ![add wmts layer on qgis](https://user-images.githubusercontent.com/24805357/36010726-949550e0-0d85-11e8-866d-38428a7fe272.gif)
+
+## How to ADD WMTS Layers to ArcGIS Pro (Desktop)
+![add wmts layer on arcgis pro desktop](https://user-images.githubusercontent.com/24805357/36014086-9de217f4-0d9a-11e8-9a05-012e11480af4.gif)
   
 ## LANDSAT8 & SRTMv.3
 * Red-Cyan
