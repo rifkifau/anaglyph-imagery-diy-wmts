@@ -175,6 +175,9 @@ https://api.mapbox.com/styles/v1/rifkifau/cjdf5lpfj0mdp2spksbvfcfh8/tiles/256/{z
 
 </p></details>
 
+## How to ADD WMTS Layers to ArcGIS Online
+![add wmts layer on arcgis online](https://user-images.githubusercontent.com/24805357/36009975-887cd124-0d81-11e8-85b8-e7d65fd08b0b.gif)
+
 <details>
   <summary>Anaglyph Imagery WMTS for ArcGIS Online, Carto, Tableau, and Fulcrum</summary><p>
   
