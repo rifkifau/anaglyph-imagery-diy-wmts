@@ -309,7 +309,8 @@ https://api.mapbox.com/styles/v1/rifkifau/cjdf5lpfj0mdp2spksbvfcfh8/tiles/256/{l
   <summary>Anaglyph Imagery WMTS for CartoCom</summary><p>
 
 ## How to ADD WMTS Layers to CartoCom
-![add wmts layers on arcgis online](https://user-images.githubusercontent.com/24805357/36010172-a2630d6e-0d82-11e8-83a1-0027a011f2ae.gif)
+![add wmts layer on cartocom](https://user-images.githubusercontent.com/24805357/36011109-c237c562-0d87-11e8-91f8-4b83f0106c7c.gif)
+
 
 ## LANDSAT8 & SRTMv.3
 * Red-Cyan
