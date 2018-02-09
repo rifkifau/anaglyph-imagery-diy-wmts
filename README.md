@@ -1,4 +1,4 @@
-# anaglyph-imagery-diy-wmts
+# ANAGLYPH IMAGERY WMTS
 Kumpulan link WMTS citra Anaglyph (filter warna Red-Cyan, Green-Magenta, dan Amber-Blue) dengan nilai Vertical Exaggeration (VE) 1,3, dan 5 untuk area kajian Provinsi DIY
 
 <details>
@@ -426,5 +426,55 @@ https://api.mapbox.com/styles/v1/rifkifau/cjdf5l0w30sjd2smsafqb1vaf/wmts?access_
 1. VE5 
 ``` 
 https://api.mapbox.com/styles/v1/rifkifau/cjdf5lpfj0mdp2spksbvfcfh8/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+</p></details>
+
+<details>
+<summary>++ Hillshade ALOS PALSAR</summary><p>
+ 
+## Preview & Share
+* VE1 > https://api.mapbox.com/styles/v1/rifkifau/cjdemcllv2oct2rs3a3zo0fw1.html?fresh=true&title=true&access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw#9.4/-7.872884/110.423550/0
+* VE3 > https://api.mapbox.com/styles/v1/rifkifau/cjdemdss63taa2rmuidbuktk5.html?fresh=true&title=true&access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw#9.4/-7.872884/110.423550/0
+* VE5 > https://api.mapbox.com/styles/v1/rifkifau/cjdemeusz1yd32rmu7dok537d.html?fresh=true&title=true&access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw#9.4/-7.872884/110.423550/0
+
+## For Leaflet
+* VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemcllv2oct2rs3a3zo0fw1/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemdss63taa2rmuidbuktk5/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemeusz1yd32rmu7dok537d/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+## For ArcGIS Online, Carto, Tableau, and Fulcrum
+* VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemcllv2oct2rs3a3zo0fw1/tiles/256/{level}/{col}/{row}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemdss63taa2rmuidbuktk5/tiles/256/{level}/{col}/{row}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemeusz1yd32rmu7dok537d/tiles/256/{level}/{col}/{row}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+
+## ForArcGIS Desktop & QGIS
+* VE1 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemcllv2oct2rs3a3zo0fw1/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemdss63taa2rmuidbuktk5/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+* VE5 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdemeusz1yd32rmu7dok537d/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
 ```
 </p></details>
