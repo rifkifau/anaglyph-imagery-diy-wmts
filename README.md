@@ -1,6 +1,6 @@
 # ANAGLYPH IMAGERY WMTS
 ![Anaglyph Imagery Glasses](https://spasialkan.com/wp-content/uploads/2017/10/Citra-Visualisasi-Anaglip-Anaglyph-Imagery-Spasialkancom-300x96.png)
-<p>Kumpulan link WMTS citra Anaglyph (filter warna Red-Cyan, Green-Magenta, dan Amber-Blue) dengan nilai Vertical Exaggeration (VE) 1,3, dan 5 untuk area kajian Provinsi DIY</p>
+<p>Kumpulan link WMTS citra Anaglyph (filter warna Red-Cyan, Green-Magenta, dan Amber-Blue) dengan nilai Vertical Exaggeration (VE) 1, 3, dan 5 untuk area kajian Provinsi DIY</p>
 
 <details>
   <summary>Anaglyph Imagery WMTS [Preview & Share]</summary><p>
