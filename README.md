@@ -614,7 +614,7 @@ https://api.mapbox.com/styles/v1/rifkifau/cjdemdss63taa2rmuidbuktk5/tiles/256/{z
 https://api.mapbox.com/styles/v1/rifkifau/cjdemeusz1yd32rmu7dok537d/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
 ```
 
-## ForArcGIS Desktop & QGIS
+## For ArcGIS Desktop & QGIS
 * VE1 
 ``` 
 https://api.mapbox.com/styles/v1/rifkifau/cjdemcllv2oct2rs3a3zo0fw1/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
