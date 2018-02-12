@@ -632,3 +632,32 @@ https://api.mapbox.com/styles/v1/rifkifau/cjdemdss63taa2rmuidbuktk5/wmts?access_
 https://api.mapbox.com/styles/v1/rifkifau/cjdemeusz1yd32rmu7dok537d/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
 ```
 </p></details>
+
+<details>
+<summary>++ Anaglyph Red-Cyan Merapi Merbabu (ASTER1T-Alos Palsar)</summary><p>
+ 
+## Preview & Share
+* VE3 > https://api.mapbox.com/styles/v1/rifkifau/cjdjr3tig3a1g2rp9cynue9kv.html?fresh=true&title=true&access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw#10.2/-7.481530/110.451362/0
+
+## For Leaflet
+* VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdjr3tig3a1g2rp9cynue9kv/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+## For ArcGIS Online
+* VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdjr3tig3a1g2rp9cynue9kv/tiles/256/{level}/{col}/{row}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+## For CartoCom
+* VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdjr3tig3a1g2rp9cynue9kv/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+## For ArcGIS Desktop & QGIS
+* VE3 
+``` 
+https://api.mapbox.com/styles/v1/rifkifau/cjdjr3tig3a1g2rp9cynue9kv/wmts?access_token=pk.eyJ1Ijoicmlma2lmYXUiLCJhIjoiY2pkY3B4a3poMzYzbjMzcjJremE2bWs1OCJ9.J9sISIYJq9fmTI76aM4gJw
+```
+
+</p></details>
